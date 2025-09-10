@@ -367,3 +367,4 @@ FodyWeavers.xsd
 **/libs/SFAT.dll
 **/libs/license.txt
 **/test_sample/*
+.vs/**
